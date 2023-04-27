@@ -1,0 +1,77 @@
+* {
+  color: white;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Itim", cursive;
+  text-align: center;
+}
+body {
+  background-color: #0e2f2f;
+}
+.container {
+  width: 900px;
+  height: 350px;
+  background-color: #0d5c63;
+  margin-left: 450px;
+  margin-top: 300px;
+  border-radius: 10px;
+}
+h2 {
+    margin-top: 15px;
+    font-size:xx-large;
+  text-align: center;
+  letter-spacing: 4px;
+  color: orange;
+  margin-bottom: 10px;
+  text-shadow: 2px 2px 1px rgb(91, 92, 95);
+}
+#age {
+  font-size: larger;
+  margin-right: 30px;
+}
+input {
+  margin-top: 30px;
+  font-size: large;
+  background-color: gray;
+  border-radius: 5px;
+  color: white;
+}
+#calculator {
+  background-color: rgb(247, 143, 16);
+  color: white;
+  width: 168px;
+  border-radius: 8px;
+  padding: 5px;
+  margin-right: 45px;
+  margin-left: 40px;
+  font-size: x-large;
+}
+#calculator:hover {
+  background-color: rgb(83, 83, 82);
+}
+#clear {
+  background-color: rgb(241, 137, 10);
+  color: white;
+  width: 85px;
+  border-radius: 8px;
+  padding: 5px;
+  font-size: x-large;
+  margin-right: 40px;
+}
+#clear:hover {
+  background-color: rgb(83, 83, 82);
+}
+p {
+  margin-left: 290px;
+  text-align: left;
+  margin-top: 30px;
+  font-size: x-large;
+}
+.socialmedia {
+  margin-top: 60px;
+  font-size: 2rem;
+  text-align: center;
+  word-spacing: 15px;
+  color: white;
+}
